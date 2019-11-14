@@ -1,0 +1,13 @@
+1011,0,ORD-STAT,0,"Shopping",1,NULL
+1012,0,ORD-STAT,1,"payment is processing",1,NULL
+1013,0,ORD-STAT,2,"pending confirmation",1,NULL
+1014,0,ORD-STAT,3,"waiting for fulfillment",1,NULL
+1015,0,ORD-STAT,4,"fulfilled, its shipping is in progress",1,NULL
+1016,0,ORD-STAT,5,"item has been delivered",1,NULL
+1017,0,DB-OBJ,tbl_01_usr,"User Table",1,NULL
+1018,0,DB-OBJ,tbl_00_cat,"Category Table",1,NULL
+1019,0,DB-OBJ,tbl_str_prd,"Product Table (Store Table)",1,NULL
+1020,0,CURR-CNV,USD,"US Dollar",1,"{"rate":360,"hex":"&#36;"}"
+1021,0,CURR-CNV,GBP,"GB Pounds",1,"{"rate":465,"hex":"&#163;"}"
+1022,0,CURR-CNV,EURO,Euro,1,"{"rate":411,"hex":"&#8364;"}"
+1023,0,CURR-CNV,Naira,Naira,1,"{"rate":1,"hex":"&#8358;"}"
